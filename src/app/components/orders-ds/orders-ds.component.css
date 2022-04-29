@@ -1,0 +1,9 @@
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow:nowrap column;
+}
+app-orders-item-ds{
+    margin: 10px;
+}
